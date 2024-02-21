@@ -2,11 +2,11 @@
 # Table of Contents
 
 ## Part I: Introduction and Basics
-1. Introduction to Computer Vision and OpenCV
-2. Basic Image Operations
-3. Color Spaces and Transformations
-4. Image Thresholding and Filtering
-5. Edge Detection
+1. [Introduction to Computer Vision and OpenCV](Introduction_to_Computer_Vision_and_OpenCV.md)
+2. [Basic Image Operations](Basic_Image_Operations_with_Python_and_OpenCV.md)
+3. [Color Spaces and Transformations](Color_Spaces_and_Transformations_with_Python_and_OpenCV.md)
+4. [Image Thresholding and Filtering](Image_Thresholding_and_Filtering_with_Python_and_OpenCV.md)
+5. [Edge Detection](Edge_Detection_with_Python_and_OpenCV.md)
 
 ## Part II: Intermediate Concepts
 1. Feature Detection and Matching
@@ -30,4 +30,3 @@
 3. 3D Vision
 
 
-[Introduction to Computer Vision and OpenCV](Introduction_to_Computer_Vision_and_OpenCV.md)
